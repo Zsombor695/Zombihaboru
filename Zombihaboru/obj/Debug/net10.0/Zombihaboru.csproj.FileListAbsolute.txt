@@ -1,0 +1,15 @@
+C:\Users\zsjav\source\repos\Zombihaboru\Zombihaboru\bin\Debug\net10.0\Zombihaboru.exe
+C:\Users\zsjav\source\repos\Zombihaboru\Zombihaboru\bin\Debug\net10.0\Zombihaboru.deps.json
+C:\Users\zsjav\source\repos\Zombihaboru\Zombihaboru\bin\Debug\net10.0\Zombihaboru.runtimeconfig.json
+C:\Users\zsjav\source\repos\Zombihaboru\Zombihaboru\bin\Debug\net10.0\Zombihaboru.dll
+C:\Users\zsjav\source\repos\Zombihaboru\Zombihaboru\bin\Debug\net10.0\Zombihaboru.pdb
+C:\Users\zsjav\source\repos\Zombihaboru\Zombihaboru\obj\Debug\net10.0\Zombihaboru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsjav\source\repos\Zombihaboru\Zombihaboru\obj\Debug\net10.0\Zombihaboru.AssemblyInfoInputs.cache
+C:\Users\zsjav\source\repos\Zombihaboru\Zombihaboru\obj\Debug\net10.0\Zombihaboru.AssemblyInfo.cs
+C:\Users\zsjav\source\repos\Zombihaboru\Zombihaboru\obj\Debug\net10.0\Zombihaboru.csproj.CoreCompileInputs.cache
+C:\Users\zsjav\source\repos\Zombihaboru\Zombihaboru\obj\Debug\net10.0\Zombihaboru.dll
+C:\Users\zsjav\source\repos\Zombihaboru\Zombihaboru\obj\Debug\net10.0\refint\Zombihaboru.dll
+C:\Users\zsjav\source\repos\Zombihaboru\Zombihaboru\obj\Debug\net10.0\Zombihaboru.pdb
+C:\Users\zsjav\source\repos\Zombihaboru\Zombihaboru\obj\Debug\net10.0\Zombihaboru.genruntimeconfig.cache
+C:\Users\zsjav\source\repos\Zombihaboru\Zombihaboru\obj\Debug\net10.0\ref\Zombihaboru.dll
+C:\Users\zsjav\source\repos\Zombihaboru\Zombihaboru\obj\Debug\net10.0\Zombihab.F04ACD91.Up2Date
